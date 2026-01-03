@@ -1,0 +1,11 @@
+{
+  "int": {},
+  "float": {},
+  "bool": {},
+  "string": {},
+  "point": {
+    "fields": ["x", "y", "z"]
+  },
+  "object": {},
+  "void": {}
+}

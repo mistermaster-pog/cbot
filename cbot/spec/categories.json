@@ -1,0 +1,13 @@
+{
+  "portable": [
+    "UraniumOre",
+    "TitaniumOre",
+    "PowerCell",
+    "NuclearCell"
+  ],
+  "buildings": [
+    "Converter",
+    "PowerStation",
+    "NuclearPlant"
+  ]
+}

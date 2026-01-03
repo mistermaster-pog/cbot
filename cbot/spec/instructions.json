@@ -1,0 +1,31 @@
+{
+  "grab": {
+    "category": "robot",
+    "allowed_robots": [
+      "WheeledGrabber",
+      "TrackedGrabber",
+      "WingedGrabber",
+      "LeggedGrabber"
+    ],
+    "args": [],
+    "returns": "void"
+  },
+
+  "drop": {
+    "category": "robot",
+    "allowed_robots": [
+      "WheeledGrabber",
+      "TrackedGrabber",
+      "WingedGrabber",
+      "LeggedGrabber"
+    ],
+    "args": [],
+    "returns": "void"
+  },
+
+  "search": {
+    "category": "robot",
+    "args": ["category"],
+    "returns": "object"
+  }
+}
